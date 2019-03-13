@@ -20,7 +20,7 @@ namespace EF6.Subqueries
 
 				Console.WriteLine(result.Count);
 
-				// This throws an exception
+				// This throws an exception in EF Core, works in EF6
 				var result2 = context.Set<ParentEntity>()
 					.Where(parent => parent.ChildEntities.AsQueryable().Any(child => child.Value == "Dummy"))
 					.ToList();

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.Core.Subqueries", "EF.Core.Subqueries\EF.Core.Subqueries.csproj", "{FCF7816D-BE19-44B9-97DB-3F75E56C620A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF.Core.Subqueries", "EF.Core.Subqueries\EF.Core.Subqueries.csproj", "{FCF7816D-BE19-44B9-97DB-3F75E56C620A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF6.Subqueries", "EF6.Subqueries\EF6.Subqueries.csproj", "{698B422A-2168-4121-ABBC-D69D00EFF6FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FCF7816D-BE19-44B9-97DB-3F75E56C620A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCF7816D-BE19-44B9-97DB-3F75E56C620A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCF7816D-BE19-44B9-97DB-3F75E56C620A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698B422A-2168-4121-ABBC-D69D00EFF6FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698B422A-2168-4121-ABBC-D69D00EFF6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698B422A-2168-4121-ABBC-D69D00EFF6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698B422A-2168-4121-ABBC-D69D00EFF6FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

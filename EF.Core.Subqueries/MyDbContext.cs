@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 using System;
+using EF.Core.Subqueries.Entities;
 using Microsoft.EntityFrameworkCore.Design;
 
 namespace EF.Core.Subqueries

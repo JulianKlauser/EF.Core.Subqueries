@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using EF.Core.Subqueries.Entities;
 
 namespace EF.Core.Subqueries
 {

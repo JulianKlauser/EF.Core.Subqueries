@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace EF.Core.Subqueries
+namespace EF.Core.Subqueries.Entities
 {
 	public class ParentEntity
 	{

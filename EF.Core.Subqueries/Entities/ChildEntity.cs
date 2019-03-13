@@ -1,4 +1,4 @@
-﻿namespace EF.Core.Subqueries
+﻿namespace EF.Core.Subqueries.Entities
 {
 	public class ChildEntity
 	{
